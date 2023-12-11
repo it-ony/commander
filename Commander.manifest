@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "acb5f8c5-7835-49f1-88ca-af66663bcd0b",
+    "author": "Tony Findeisen",
+    "description": {
+        "": "An Fusion360 to execute commands faster."
+    },
+    "version": "0.1",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
